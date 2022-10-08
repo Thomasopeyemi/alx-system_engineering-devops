@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -amv --indicator-style=slash printf "\n"
+ls -amv --indicator-style=slash 
