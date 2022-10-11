@@ -1,2 +1,2 @@
-This is a list of all the scripts and their functions
-
+0-hel
+lo_world - prints the text Hello, World. \n1-confused_smiley - prints a confused smiley. \n 2-hellofile - displays content of /etc/passwd. \n 3-twofiles - displays content of /etc/passwd and /etc/hosts together. \n 4-lastlines - displays last 10 lines of /etc/passwd. \n 5-firstlines - displays first 10 lines of /etc/passwd. \n 6-third_line - displays 3rd line of file iacta. \n 7-file - creates a file with multiple characters to be ignored. \n 8-cwd_state - overwrites (write) the content of ls_cwd_content with ls -la input'. \n9-duplicate_last_line - duplicates ;last line of file iacta. \n 10-no_more_js - deletes all files in working directory with .js. \n 11-directories - counts number of directories and subdirectories in working path. \n 12-newest_files - displays newest files in working directory. \n
