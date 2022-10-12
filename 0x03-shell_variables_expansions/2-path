@@ -1,2 +1,2 @@
 #!/bin/bash
-touch action >  /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+touch /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin/action
